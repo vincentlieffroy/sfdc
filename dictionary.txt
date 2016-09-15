@@ -1,0 +1,35 @@
+searchHouse_Bedrooms_City_Range (.*) bedrooms in (.*) between (.*) and (.*)
+searchHouse_Bedrooms_City_Range (.*) bedrooms in (.*) from (.*) to (.*)
+searchHouse_Bedrooms_City (.*) bedrooms in (.*)
+searchHouse_City in (.*)
+searchHouse_Range between (.*) and (.*)
+searchHouse_Range from (.*) to (.*)
+searchHouse_Bedrooms (.*) bedrooms
+searchHouse search house
+searchHouse looking for house
+searchHouse find house
+searchHouse for sale
+priceChanges price changes
+hi hi
+help help
+test test
+
+searchJob search job
+searchJob find job
+searchJob looking for job
+
+searchjob_City in (*)
+searchjob_Range between (.*) and (.*)
+searchjob_Range from (.*) to (.*)
+
+searchJob search job_year search job needing (.*) year experience
+searchJob search job_year search job with (.*) years experience
+searchJob search job_year find job needing (.*) year experience
+searchJob search job_year find job with (.*) year experience
+searchJob search job_year looking for job with (.*) year experience
+searchJob search job_year looking for job needing (.*) year experience
+
+searchJob search job_year search job needing between (.*) and (.*) year experience
+searchJob search job_year search job between (.*) and (.*) year
+searchJob search job_year search job needing from (.*) to (.*) year experience
+searchJob search job_year search job between (.*) and (.*) year
